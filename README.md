@@ -1,5 +1,5 @@
 # LACC-PCR-docAutomation
-Prospective Client Review Letter using Word and Documate
+Prospective Client Review Letter using Word and Documate.
 Documate is a document automation software that gives both front-end and back-end an ease of service throughout the entire experience.
 All the client sees is the finished interview which can be broken down into relavent chunks, making them easily digestible. The interface is intuitive for users to give accurate and complete information. Once the user has succussfully completed the interview, they are allowed to download a finished copy in .doc or .pdf format.
 
